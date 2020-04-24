@@ -1,7 +1,7 @@
 tableextension 50000 "IBZSales Header" extends "Sales Header"
 {
     // version NAVW114.11,NAVSE14.11,AG1,EQ1
-
+// skriver i lokal fil
     // *** AG1 ***
     // ROLA 051128 New field "Agreement No.".
 
