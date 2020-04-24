@@ -6,6 +6,7 @@
 // -----CHANGE 3333333333---------
 // -----CHANGE 4444444444---------
 // -----CHANGE 5555555555---------
+// -----CHANGE 6666666666---------
 pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
