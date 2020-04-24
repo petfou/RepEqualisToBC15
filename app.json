@@ -1,0 +1,26 @@
+{
+  "id": "9e027cc4-bea8-41c6-bf6a-62ca887096f8",
+  "name": "EqualisToBC15",
+  "publisher": "Inbiz",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://EqualisToBC15.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
